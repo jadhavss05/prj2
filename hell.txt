@@ -1,2 +1,3 @@
-hello
-sushant change this line
+
+1.hello
+-to resolve merge conflicts
